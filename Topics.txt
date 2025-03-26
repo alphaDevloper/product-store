@@ -1,0 +1,1 @@
+Rate Limiting: means putting a limit on user how many requests can he make.  
